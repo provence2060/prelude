@@ -2,7 +2,7 @@
 ;;分叉（而不是克隆）正式的Prelude回购，并为其添加您自己的风格。
 ;;建议您避免更改个人文件夹之外的内容，以免将来不得不处理git merge冲突。
 
-
+(setq-default cursor-type 'bar)
 
 ;;禁用空白模式
 (setq prelude-whitespace nil)
